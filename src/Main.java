@@ -8,7 +8,7 @@ public class Main {
     }
 
     private static Integer binarySearch(int[] list, int item){
-        int low = 0;a
+        int low = 0;
         int high = list.length - 1;
 
         while(low <= high){
